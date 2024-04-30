@@ -1,0 +1,13 @@
+.search-bar-box {
+  width: 333px;
+  height: 63px;
+  border-radius: 4px;
+  background-color: #ffce6d;
+  border: 1px solid #ec9f09;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
