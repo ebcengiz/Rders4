@@ -25,5 +25,32 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "users": [
+    {
+      "id": "1",
+      "name": "Evelyn Krahn",
+      "profile_pic": "./public/avatarK1.svg"
+    },
+    {
+      "id": "2",
+      "name": "Sheryl Beer",
+      "profile_pic": "./public/avatarK2.svg"
+    },
+    {
+      "id": "3",
+      "name": "Grace J. Brown",
+      "profile_pic": "./public/avatarK3.svg"
+    },
+    {
+      "id": "4",
+      "name": "Gloria Ring",
+      "profile_pic": "./public/avatarK4.svg"
+    },
+    {
+      "id": "5",
+      "name": "Jacqueline L. Roberson",
+      "profile_pic": "./public/avatarK5.svg"
+    }
+  ]
 }
