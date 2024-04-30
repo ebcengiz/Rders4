@@ -2,12 +2,14 @@
 import React from 'react'
 import "./card.css"
 import MainTitle from '../mainTitle/MainTitle'
+import UsersCard from '../usersCard/UsersCard'
 
 const Card = () => {
   return (
     <>
         <div className='card'>
             <MainTitle text="Filter by author" />
+            <UsersCard />
         </div>
     </>
   )

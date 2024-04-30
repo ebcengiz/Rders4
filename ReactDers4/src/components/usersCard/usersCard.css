@@ -1,0 +1,9 @@
+.users-card-box {
+  width: 333px;
+  height: 525px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+}
