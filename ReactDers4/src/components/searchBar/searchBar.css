@@ -8,6 +8,21 @@
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-start;
   box-sizing: border-box;
+  margin-bottom: 16px;
+}
+
+.searchInp {
+  background-color: #ffce6d;
+  border: none;
+  color: #141140;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 16px;
+}
+.searchInp:focus {
+  outline: none;
+  box-shadow: none;
 }

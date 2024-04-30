@@ -8,6 +8,12 @@ const SearchBar = () => {
     <>
       <div className='search-bar-box'>
         <SearchBarIcon />
+        {
+           <form className="d-flex" role="search">
+                <input className="form-control me-2 searchInp" type="search" placeholder="Find users" aria-label="Search" />
+            </form> 
+        }
+        
       </div>
     </>
   )
